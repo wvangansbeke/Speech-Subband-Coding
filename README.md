@@ -32,3 +32,6 @@ with. In this specific application there is chosen to make the number of bits co
 adapt the step size throughout the signal. This is done in an AQB sense or Adaptive Quantisation with
 Backwards estimation. Consequently, the quantized levels are adapted automatically to the range of the
 signal in a certain window.
+
+# Usage
+The implementation in both Matlab and C can be found in their respective folders.
